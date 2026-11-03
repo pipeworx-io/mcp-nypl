@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-nypl",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "NYPL Digital Collections MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "nypl",
     "gatewaySlug": "nypl",
-    "sourceHash": "v1-a79fd406d40745b1df7d6b44653d03318cf87fe7ba681202cc8d5349948789ac",
-    "sourceCommit": "b2c4383545bb35171d0ada2beb1c9c7168ea175e"
+    "sourceHash": "v1-00bd7912b4647009fe7bfcbcd94d78027995022f90205a2443dd68269e490ffa",
+    "sourceCommit": "bed7faa04e7276899b5e3870ef11c98625371f2b"
   }
 }
